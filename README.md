@@ -35,7 +35,7 @@ Computacao/
 ## 📑 Sumário
 
 ### Computação
-- [Sistemas Operacionais](Sistemas Operacionais/README.md)  
+- [Sistemas Operacionais](Sistemas-Operacionais/README.md)  
 
 *(novos temas serão adicionados em breve)*
 
